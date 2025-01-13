@@ -1,0 +1,3 @@
+baseURL = 'https://cogsec.blog/'
+languageCode = 'en-us'
+title = 'Cognitive Security Blog'

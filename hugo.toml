@@ -29,6 +29,12 @@ copyright = 'cogsec.blog'
         name = "Tags"
         url = "/tags/"
         weight = 3
+  
+  [[menu.main]]
+        identifier = "resources"
+        name = "Resources"
+        url = "/resources/"
+        weight = 4
 
 # Footer
   # [[menu.footer]]

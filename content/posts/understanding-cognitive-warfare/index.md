@@ -12,7 +12,7 @@ tags:
 ---
 
 > _A summary from the paper:_
-
+>
 > _Miller, S. Cognitive warfare: an ethical analysis. Ethics Inf Technol 25, 46 (2023). https://doi.org/10.1007/s10676-023-09717-7_
 
 In today's interconnected world, warfare isn't just about tanks, planes, and soldiers. A new form of conflict has emerged that targets something far more fundamental: how we think and make decisions. This is cognitive warfare, and it's reshaping how nations compete and conflict in the 21st century.
